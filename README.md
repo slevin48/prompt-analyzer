@@ -1,4 +1,7 @@
 # prompt-analyzer
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prompt-analyzer.streamlit.app/)
+
 Analyze prompts with a streamlit app 📊
 
 ## V0 with cursor
